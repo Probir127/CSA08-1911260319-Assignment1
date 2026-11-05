@@ -1,0 +1,4 @@
+$ python3 Task08/demo.py
+Input: ('10', '3.5', '8.5') payment: 300.00 running total: 300.00
+Input: ('8.5', '4.2', '8.7') payment: 283.90 running total: 583.90
+Input: ('12', '3.1', '8.3') payment: 333.60 running total: 917.50
