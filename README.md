@@ -8,11 +8,7 @@ This package contains worked solutions for all 12 tasks. Read SOLUTIONS.md first
 It is a study/reference solution: understand, adapt and execute it yourself.
 Prepared with Codex assistance. Task commits record this preparation session; no earlier development history has been fabricated.
 
-Program: B.Tech - Computer Science and Engineering
-
-Program code: 1911
-
-Course: CSA08 - Python programing
+Course: CSA08 - Python Programming
 
 [Download the PDF report](CSA08_Complete_Solution.pdf)
 
