@@ -10,7 +10,9 @@ Prepared with Codex assistance. Task commits record this preparation session; no
 
 Program: B.Tech - Computer Science and Engineering
 
-Program code: 1911 | Commencement year: 2026
+Program code: 1911
+
+Course: CSA08 - Python programing
 
 [Download the PDF report](CSA08_Complete_Solution.pdf)
 

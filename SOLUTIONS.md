@@ -4,7 +4,7 @@
 
 This solution covers Tasks 1-12 of the supplied milk co-operative assignment, including both Complete the Code exercises, alternatives, complexity analyses, validation and the design challenge. The accompanying programs have been executed. Captured stdout and labelled images rendered from it are included in each task folder. These are output images, not terminal screenshots. Faculty-required terminal screenshots must be captured by the student when running the programs.
 
-Student: PROBIR SAHA SHOHOM. Registration number: 1911260319. Program: B.Tech - Computer Science and Engineering; code 1911; commencement year 2026. Repository: https://github.com/Probir127/CSA08-1911260319-Assignment1. This package is prepared with Codex assistance. Task commits record one preparation session, not a week of progressive work. The student must review the solution and submit the repository link to the faculty. No personal submission history is invented.
+Student: PROBIR SAHA SHOHOM. Registration number: 1911260319. Program: B.Tech - Computer Science and Engineering; code 1911. Course: CSA08 - Python programing. Repository: https://github.com/Probir127/CSA08-1911260319-Assignment1. This package is prepared with Codex assistance. Task commits record one preparation session, not a week of progressive work. The student must review the solution and submit the repository link to the faculty. No personal submission history is invented.
 
 The following decisions fill gaps in the question; the co-operative must confirm these policies before operational use:
 
