@@ -1,0 +1,18 @@
+$ python3 Task09/tests.py
+standard           expected= 300.00 actual= 300.00 PASS
+above              expected= 283.90 actual= 283.90 PASS
+below              expected= 333.60 actual= 333.60 PASS
+lowest fat         expected= 120.00 actual= 120.00 PASS
+highest fat        expected= 176.00 actual= 176.00 PASS
+zero litres        expected=   0.00 actual=   0.00 PASS
+half paisa up      expected=   0.03 actual=   0.03 PASS
+Expected rejection: ('eight', '3.5', '8.5') PASS
+Expected rejection: ('-1', '3.5', '8.5') PASS
+Expected rejection: ('1', '1.9', '8.5') PASS
+Expected rejection: ('1', '7.1', '8.5') PASS
+Expected rejection: ('1', '3.5', '8,5') PASS
+Expected rejection: ('nan', '3.5', '8.5') PASS
+Expected rejection: ('1', '3.55', '8.5') PASS
+Expected rejection: ('1', '3.5', '10.1') PASS
+Expected rejection: ('Infinity', '3.5', '8.5') PASS
+Five-entry total: 1213.50 PASS; date/farmer filtering PASS; invalid shift PASS

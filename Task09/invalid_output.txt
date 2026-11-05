@@ -1,0 +1,4 @@
+Farmer ID for statement: Period start (YYYY-MM-DD): Entry farmer ID (blank ends): Date: Shift AM/PM: Litres: Fat %: SNF %: Rejected: Measurement outside allowed range
+Entry farmer ID (blank ends): Date: Shift AM/PM: Litres: Fat %: SNF %: Payment: Rs   300.00
+Entry farmer ID (blank ends): Date: Shift AM/PM: Litres: Fat %: SNF %: Rejected: Duplicate farmer/date/shift
+Entry farmer ID (blank ends): Ten-day total for F001: Rs 300.00

@@ -1,0 +1,3 @@
+Farmer ID for statement: Period start (YYYY-MM-DD): Entry farmer ID (blank ends): Date: Shift AM/PM: Litres: Fat %: SNF %: Payment: Rs   300.00
+Entry farmer ID (blank ends): Date: Shift AM/PM: Litres: Fat %: SNF %: Payment: Rs   283.90
+Entry farmer ID (blank ends): Ten-day total for F001: Rs 583.90
