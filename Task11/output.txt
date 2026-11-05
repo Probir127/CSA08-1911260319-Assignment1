@@ -1,0 +1,2 @@
+$ python3 Task11/demo.py
+{'base': Decimal('30.00'), 'fat': Decimal('0.40'), 'snf': Decimal('0.30')}
