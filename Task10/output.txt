@@ -1,0 +1,45 @@
+$ python3 Task10/benchmark.py
+{
+  "python": "3.15.2 (v3.15.2:5e58eaad7c5, Oct 25 2026, 14:19:34) [Clang 21.0.0 (clang-2100.1.1.101)]",
+  "totals": [
+    {
+      "n": 300,
+      "float_repr": "10019.999999999944",
+      "decimal": "10020.00",
+      "difference": "-5.638867150992155075073242188E-11",
+      "float_seconds": 3.2080024539027363e-06,
+      "decimal_seconds": 1.0792002285597846e-05,
+      "paise_seconds": 2.5839981390163302e-06,
+      "full_calculator_seconds": 0.0003717500003403984,
+      "float_rounded_matches": true
+    },
+    {
+      "n": 6000,
+      "float_repr": "200399.99999997852",
+      "decimal": "200400.00",
+      "difference": "-2.14786268770694732666015625E-8",
+      "float_seconds": 5.1957998948637396e-05,
+      "decimal_seconds": 0.00017591699725016952,
+      "paise_seconds": 5.816699922434054e-05,
+      "full_calculator_seconds": 0.007427417000144487,
+      "float_rounded_matches": true
+    },
+    {
+      "n": 150000,
+      "float_repr": "5010000.000000843",
+      "decimal": "5010000.00",
+      "difference": "8.42846930027008056640625E-7",
+      "float_seconds": 0.0013906659987696912,
+      "decimal_seconds": 0.004440666001755744,
+      "paise_seconds": 0.001484583001001738,
+      "full_calculator_seconds": 0.1831994999993185,
+      "float_rounded_matches": true
+    }
+  ],
+  "cache": {
+    "n": 150000,
+    "k": 3,
+    "recompute_seconds": 0.12440091700045741,
+    "cache_seconds": 0.006786833000660408
+  }
+}
