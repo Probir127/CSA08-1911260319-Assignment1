@@ -1,0 +1,13 @@
+$ python3 Task12/tests.py
+2026-03-31 3.5 8.5 rate= 30.00 pay= 300.00 PASS
+2026-04-01 3.5 8.5 rate= 32.00 pay= 320.00 PASS
+2026-06-30 3.5 8.5 rate= 32.00 pay= 320.00 PASS
+2026-07-01 3.5 8.5 rate= 30.00 pay= 300.00 PASS
+2026-04-01 4.25 8.65 rate= 35.825 pay= 358.25 PASS
+2026-11-01 4.25 8.65 rate= 33.450 pay= 334.50 PASS
+2026-04-01 3.45 8.45 rate= 31.625 pay= 316.25 PASS
+Bonus litres= 499.999 expected= 0.00 actual= 0.00 PASS
+Bonus litres= 500 expected= 0.00 actual= 0.00 PASS
+Bonus litres= 500.001 expected= 250.00 actual= 250.00 PASS
+Bonus litres= 501 expected= 250.50 actual= 250.50 PASS
+Both full statements, mixed-season period and resolution rejection PASS
