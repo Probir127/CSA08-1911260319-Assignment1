@@ -1,0 +1,4 @@
+$ python3 Task03/demo.py
+10 <class 'int'>
+10 <class 'str'>
+After swap: 2 1
