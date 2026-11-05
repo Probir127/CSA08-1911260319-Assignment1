@@ -1,0 +1,4 @@
+$ python3 Task06/demo.py
+Rate: 30.00 Payment: 300.00
+Rate: 33.40 Payment: 283.90
+Rate: 27.80 Payment: 333.60
