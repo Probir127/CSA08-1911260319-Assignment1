@@ -1,0 +1,9 @@
+$ python3 Task05/demo.py
+'8,5' simple check: False try float: invalid
+' 8.5 ' simple check: True try float: 8.5
+'eight' simple check: False try float: invalid
+'-2' simple check: True try float: -2.0
+'nan' simple check: False try float: reject nonfinite
+'1e2' simple check: False try float: 100.0
+Farmer        Amount
+F001          283.90
