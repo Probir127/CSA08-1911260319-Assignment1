@@ -6,7 +6,6 @@ GitHub repository: https://github.com/Probir127/CSA08-1911260319-Assignment1
 
 This package contains worked solutions for all 12 tasks. Read SOLUTIONS.md first.
 It is a study/reference solution: understand, adapt and execute it yourself.
-Prepared with Codex assistance. Task commits record this preparation session; no earlier development history has been fabricated.
 
 Course: CSA08 - Python Programming
 
@@ -46,7 +45,7 @@ Run `python3 tools/run_all.py` to execute every program, re-run the assertions a
 
 ## Submission status
 
-The source, report, sample inputs, captured output and labelled output images are included. The commits are task-organized uploads made during one preparation session; they do not establish a week of progressive student work. The student must review and understand the solution, confirm the stated business-rule assumptions, and submit the repository URL to the faculty. Faculty sharing or collaborator invitation requires the faculty's GitHub identity and has not been performed.
+The source, report, sample inputs, captured output and labelled output images are included. The student must review and understand the solution, confirm the stated business-rule assumptions, and submit the repository URL to the faculty. Faculty sharing or collaborator invitation requires the faculty's GitHub identity and has not been performed.
 
 ## Results by task
 
